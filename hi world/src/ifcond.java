@@ -5,10 +5,10 @@ public class ifcond {
 		int x=20;
 		int y=14;
 
-		if(x>10) 
+		if(x<10) 
 		{
 			
-			   System.out.println("x is greater than y");
+			   System.out.println("x");
 		}
 		else
         System.out.println("y");
